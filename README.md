@@ -59,8 +59,8 @@ This project implements handwritten text recognition using **OCR (Optical Charac
 
 | File                                                        | Description                               |
 |-------------------------------------------------------------|-------------------------------------------|
-| [`NLP_TA2_Assignment.ipynb`](NLP_TA2_Assignment.ipynb)      | Full Colab notebook with implementation   |
-| [`NLP_TA2_Assignment.py`](NLP_TA2_Assignment.py)            | Python script version of the notebook     |
+| [`NLP_TA2_Project_Code.ipynb`](NLP_TA2_Project_Code.ipynb)      | Full Colab notebook with implementation   |
+| [`NLP_TA2_Project_Code.py`](NLP_TA2_Project_Code.py)            | Python script version of the notebook     |
 | [`NLP_TA2_Code_Output.pdf`](NLP_TA2_Code_Output.pdf)        | Code with final output                    |
 | [`NLP_TA2_Project_Report.pdf`](NLP_TA2_Project_Report.pdf)  | Project Report                            |
 | [`marathi_text.png`](marathi_text.png)                      | Sample Marathi handwritten image          |
